@@ -12,3 +12,5 @@ A place to house helpful links relating to all things front-end
 [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)
 
 [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)
+
+[A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)
