@@ -8,3 +8,7 @@ A place to house helpful links relating to all things front-end
 [Cool Background](https://coolbackgrounds.io/)
 
 [CSS Media Queries - Quick Reference Guide](https://alligator.io/css/media-queries/)
+
+[UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)
+
+[CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)
