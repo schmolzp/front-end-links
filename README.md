@@ -14,3 +14,5 @@ A place to house helpful links relating to all things front-end
 [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)
 
 [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)
+
+[Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
