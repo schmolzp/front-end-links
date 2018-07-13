@@ -13,8 +13,14 @@ A place to house helpful links relating to all things front-end
 [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)  
 [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
 
-### CSS Guides
+### CSS
+#### Guides
+
 [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)
+
+#### Grids
+
+[How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)
 
 ### SVG Icon Systems
 [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
