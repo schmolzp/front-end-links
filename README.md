@@ -22,6 +22,9 @@ A place to house helpful links relating to all things front-end
 
 [How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)
 
+### Design Systems
+[Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)
+
 ### SVG Icon Systems
 [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
 [The guide to integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166)  
