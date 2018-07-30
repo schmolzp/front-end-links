@@ -31,5 +31,5 @@ A place to house helpful links relating to all things front-end
 [The guide to integrating and styling icon systems — SVG sprites, SVG symbols and icon fonts](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
 
 ### Accessibility
-[Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/) 
+[Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
 [Accessibility for Teams](https://accessibility.digital.gov/)
