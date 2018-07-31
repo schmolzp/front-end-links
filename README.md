@@ -23,7 +23,8 @@ A place to house helpful links relating to all things front-end
 [How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)
 
 ### Design Systems
-[Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)
+[Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)  
+[Create your design system, part 2: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6)
 
 ### SVG Icon Systems
 [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
@@ -32,4 +33,5 @@ A place to house helpful links relating to all things front-end
 
 ### Accessibility
 [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
-[Accessibility for Teams](https://accessibility.digital.gov/)
+[Accessibility for Teams](https://accessibility.digital.gov/)  
+
