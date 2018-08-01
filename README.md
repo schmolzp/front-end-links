@@ -38,6 +38,6 @@ A place to house helpful links relating to all things front-end
 
 ### CDNs  
 [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
-[ImageKit - Intelligent real time image optimization, resizing, cropping and super fast delivery](https://imagekit.io/)
+[ImageKit - Intelligent real time image optimization, resizing, cropping and super fast delivery](https://imagekit.io/)  
 [Amazon Cloudfront - Highly programmable, secure content delivery network (CDN)](https://aws.amazon.com/cloudfront/)
 
