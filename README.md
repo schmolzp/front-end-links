@@ -16,7 +16,8 @@ A place to house helpful links relating to all things front-end
 ### CSS
 #### Guides
 
-[CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)
+[CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
+[CSS in Depth](http://file.allitebooks.com/20180423/CSS%20in%20Depth.pdf)
 
 #### Grids
 
