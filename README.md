@@ -7,7 +7,8 @@ A place to house helpful links relating to all things front-end
 [CSS Media Queries - Quick Reference Guide](https://alligator.io/css/media-queries/)
 
 ### Visual Tools
-[Cool Background](https://coolbackgrounds.io/)
+[Cool Background](https://coolbackgrounds.io/)  
+[CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)
 
 ### UI
 [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)  
