@@ -42,3 +42,6 @@ A place to house helpful links relating to all things front-end
 [ImageKit - Intelligent real time image optimization, resizing, cropping and super fast delivery](https://imagekit.io/)  
 [Amazon Cloudfront - Highly programmable, secure content delivery network (CDN)](https://aws.amazon.com/cloudfront/)
 
+### Front-End Interview Questions
+[30 Seconds of Interviews](https://30secondsofinterviews.org/)
+
