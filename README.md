@@ -22,7 +22,8 @@ A place to house helpful links relating to all things front-end
 
 #### Grids
 
-[How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)
+[How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)  
+[A Simple Visual Cheatsheet for CSS Grid Layout](http://grid.malven.co/)
 
 ### Design Systems
 [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)  
