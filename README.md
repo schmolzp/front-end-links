@@ -39,6 +39,7 @@ A place to house helpful links relating to all things front-end
 ### Accessibility
 * [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
 * [Accessibility for Teams](https://accessibility.digital.gov/)  
+* [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
 
 ### CDNs  
 * [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
