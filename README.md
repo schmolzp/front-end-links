@@ -38,6 +38,7 @@ A place to house helpful links relating to all things front-end
 
 ### Checklists
 * [The Front-End Checklist](https://frontendchecklist.io/)  
+* [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 
 ### Accessibility
 * [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
