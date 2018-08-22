@@ -6,9 +6,10 @@ A place to house helpful links relating to all things front-end
 * [Math and Front-End (responsive typography with viewport units)](https://www.chenhuijing.com/blog/math-and-front-end/#%F0%9F%91%BE)  
 * [CSS Media Queries - Quick Reference Guide](https://alligator.io/css/media-queries/)
 
-### Visual Tools
+### Visual Tools/Effects
 * [Cool Background](https://coolbackgrounds.io/)  
-* [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)
+* [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
+* [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
 
 ### UI
 * [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)  
