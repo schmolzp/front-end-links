@@ -30,8 +30,8 @@ A place to house helpful links relating to all things front-end
 * [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)  
 * [Create your design system, part 2: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6)  
 * [Create your design system, part 3: Colors](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f)  
-* [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)  
 * [Create your design system, part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
+* [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)  
 
 ### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
