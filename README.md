@@ -1,18 +1,18 @@
 # front-end-links
 A place to house helpful links relating to all things front-end
 
-- [front-end-links](#front-end-links)
-        - [Responsive](#responsive)
-        - [Visual Tools/Effects](#visual-toolseffects)
-        - [UI](#ui)
-        - [CSS](#css)
-            - [Guides](#guides)
-            - [Grids](#grids)
-        - [Design/CSS Systems](#designcss-systems)
-        - [SVG Icon Systems](#svg-icon-systems)
-        - [Checklists](#checklists)
-        - [Accessibility](#accessibility)
-        - [CDNs](#cdns)
+- [front-end-links](#front-end-links)  
+        - [Responsive](#responsive)  
+        - [Visual Tools/Effects](#visual-toolseffects)  
+        - [UI](#ui)  
+        - [CSS](#css)  
+            - [Guides](#guides)  
+            - [Grids](#grids)  
+        - [Design/CSS Systems](#designcss-systems)  
+        - [SVG Icon Systems](#svg-icon-systems)  
+        - [Checklists](#checklists) 
+        - [Accessibility](#accessibility)  
+        - [CDNs](#cdns)  
         - [Front-End Interview Questions](#front-end-interview-questions)
 
 ### Responsive
