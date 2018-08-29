@@ -1,7 +1,7 @@
 # front-end-links
 A place to house helpful links relating to all things front-end
 
-- [front-end-links](#front-end-links)
+- [front-end-links](#front-end-links)  
         - [Responsive](#responsive)  
         - [Visual Tools/Effects](#visual-toolseffects)  
         - [UI](#ui)  
