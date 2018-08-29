@@ -1,19 +1,19 @@
 # front-end-links
 A place to house helpful links relating to all things front-end
 
-1. [front-end-links](#front-end-links)
-        1. [Responsive](#responsive)  
-        2. [Visual Tools/Effects](#visual-toolseffects)  
-        3. [UI](#ui)  
-        4. [CSS](#css)  
-            1. [---Guides](#guides)  
-            2. [---Grids](#grids)  
-        5. [Design/CSS Systems](#designcss-systems)  
-        6. [SVG Icon Systems](#svg-icon-systems)  
-        7. [Checklists](#checklists)  
-        8. [Accessibility](#accessibility)  
-        9. [CDNs](#cdns)  
-        10. [Front-End Interview Questions](#front-end-interview-questions)
+- [front-end-links](#front-end-links)
+        - [Responsive](#responsive)  
+        - [Visual Tools/Effects](#visual-toolseffects)  
+        - [UI](#ui)  
+        - [CSS](#css)  
+            - [----Guides](#----guides)  
+            - [----Grids](#----grids)  
+        - [Design/CSS Systems](#designcss-systems)  
+        - [SVG Icon Systems](#svg-icon-systems)  
+        - [Checklists](#checklists)  
+        - [Accessibility](#accessibility)  
+        - [CDNs](#cdns)  
+        - [Front-End Interview Questions](#front-end-interview-questions)
 
 ### Responsive
 * [Responsive Tables](https://www.hongkiat.com/blog/html-table-building-30-beautiful-examples-and-useful-javascripts/)  
@@ -30,12 +30,12 @@ A place to house helpful links relating to all things front-end
 * [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
 
 ### CSS
-#### Guides
+#### ----Guides
 
 * [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
 * [CSS in Depth](http://file.allitebooks.com/20180423/CSS%20in%20Depth.pdf)
 
-#### Grids
+#### ----Grids
 
 * [How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)  
 * [A Simple Visual Cheatsheet for CSS Grid Layout](http://grid.malven.co/)
