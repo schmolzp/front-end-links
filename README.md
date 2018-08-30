@@ -1,7 +1,7 @@
 # front-end-links
 A place to house helpful links relating to all things front-end
 
- # Table of Contens
+ ## Table of Contents
 - [Responsive](#responsive)  
 - [Visual Tools/Effects](#visual-toolseffects)  
 - [UI](#ui)  
