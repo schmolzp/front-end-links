@@ -13,6 +13,7 @@ A place to house helpful links relating to all things front-end
 - [Checklists](#checklists)  
 - [Accessibility](#accessibility)  
 - [CDNs](#cdns)  
+- [Hosting/Deployment](#hostingdeployment)
 - [Front-End Interview Questions](#front-end-interview-questions)
 
 ### Responsive
@@ -69,6 +70,13 @@ A place to house helpful links relating to all things front-end
 * [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
 * [ImageKit - Intelligent real time image optimization, resizing, cropping and super fast delivery](https://imagekit.io/)  
 * [Amazon Cloudfront - Highly programmable, secure content delivery network (CDN)](https://aws.amazon.com/cloudfront/)
+
+### Hosting/Deployment
+* [Helping a Beginner Understand Getting a Website Live](https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/)  
+* [Netify - Build, deploy, and manage
+modern web projects](https://www.netlify.com/)  
+* [DeployBot - Instantly build and ship code anywhere in one consistent process for your entire team.](https://deploybot.com/)
+
 
 ### Front-End Interview Questions
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
