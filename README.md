@@ -62,7 +62,7 @@ A place to house helpful links relating to all things front-end
 
 ### Checklists
 * [The Front-End Checklist](https://frontendchecklist.io/)  
-* [The Front-End Design Checklist](https://pubapi.seenmoment.com/v1/users/me/campaigns/530081024/entries?client_id=4e3144d8-8380-46d0-8364-f5afc1eb0065&client_secret=2686b8f69a4c8e5f5d74e1a6e5a26883)
+* [The Front-End Design Checklist](https://frontenddesignchecklist.io/)
 * [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 
 ### Accessibility
