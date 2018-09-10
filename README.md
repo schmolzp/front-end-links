@@ -33,6 +33,9 @@ A place to house helpful links relating to all things front-end
 * [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
 
 ### CSS
+#### Animations/Illustrations
+* [How to create pure CSS illustrations and animate them](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-3-3e8a?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)  
+
 #### Guides
 
 * [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
