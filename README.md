@@ -6,6 +6,7 @@ A place to house helpful links relating to all things front-end
 - [Visual Tools/Effects](#visual-toolseffects)  
 - [UI](#ui)  
 - [CSS](#css)  
+    - [Animations/Illustrations](#animationsillustrations) 
     - [Guides](#guides) 
     - [Grids](#grids)  
 - [Design/CSS Systems](#designcss-systems)  
