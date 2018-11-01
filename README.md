@@ -9,6 +9,7 @@ A place to house helpful links relating to all things front-end
     - [Animations/Illustrations](#animationsillustrations) 
     - [Guides](#guides) 
     - [Grids](#grids)  
+    - [Selectors](#selectors)  
 - [Design/CSS Systems](#designcss-systems)  
 - [SVG Icon Systems](#svg-icon-systems)  
 - [Checklists/Guidelines](#checklistsguidelines)  
@@ -48,6 +49,10 @@ A place to house helpful links relating to all things front-end
 
 * [How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)  
 * [A Simple Visual Cheatsheet for CSS Grid Layout](http://grid.malven.co/)
+
+#### Selectors
+
+* [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)
 
 ### Design/CSS Systems
 * [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)  
