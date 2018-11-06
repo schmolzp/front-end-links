@@ -21,6 +21,7 @@ A place to house helpful links relating to all things front-end
 ### Responsive
 * [Responsive Tables](https://www.hongkiat.com/blog/html-table-building-30-beautiful-examples-and-useful-javascripts/)  
 * [Math and Front-End (responsive typography with viewport units)](https://www.chenhuijing.com/blog/math-and-front-end/#%F0%9F%91%BE)  
+* [Fun Tip: Use calc() to Change the Height of a Hero Component](https://css-tricks.com/fun-tip-use-calc-to-change-the-height-of-a-hero-component/)  
 * [CSS Media Queries - Quick Reference Guide](https://alligator.io/css/media-queries/)
 
 ### Visual Tools/Effects
