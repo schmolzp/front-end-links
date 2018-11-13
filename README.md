@@ -45,6 +45,7 @@ A place to house helpful links relating to all things front-end
 * [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
 * [CSS in Depth](http://file.allitebooks.com/20180423/CSS%20in%20Depth.pdf)
 * [CSS Layout Cookbook Recipes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
+* [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
 #### Grids
 
