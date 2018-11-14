@@ -46,6 +46,7 @@ A place to house helpful links relating to all things front-end
 * [CSS in Depth](http://file.allitebooks.com/20180423/CSS%20in%20Depth.pdf)
 * [CSS Layout Cookbook Recipes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+* [How to Create Printer-friendly Pages with CSS](https://www.sitepoint.com/css-printer-friendly-pages/)
 
 #### Grids
 
