@@ -47,6 +47,7 @@ A place to house helpful links relating to all things front-end
 * [CSS Layout Cookbook Recipes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [How to Create Printer-friendly Pages with CSS](https://www.sitepoint.com/css-printer-friendly-pages/)
+* [Web Field Manual](https://webfieldmanual.com/code)
 
 #### Grids
 
