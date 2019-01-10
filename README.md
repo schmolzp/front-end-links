@@ -5,6 +5,7 @@ A place to house helpful links relating to all things front-end
 - [Responsive](#responsive)  
 - [Visual Tools/Effects](#visual-toolseffects)  
 - [UI](#ui)  
+- [Plugins](#plugins)  
 - [CSS](#css)  
     - [Animations/Illustrations](#animationsillustrations) 
     - [Guides](#guides) 
@@ -35,6 +36,12 @@ A place to house helpful links relating to all things front-end
 ### UI
 * [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)  
 * [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
+
+### Tools
+* [Git Command Explorer](http://gitexplorer.com/)  
+
+### Plugins
+* [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/)  
 
 ### CSS
 #### Animations/Illustrations
