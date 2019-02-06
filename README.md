@@ -27,6 +27,8 @@ A place to house helpful links relating to all things front-end
 
 ### Visual Tools/Effects
 * [Cool Background](https://coolbackgrounds.io/)  
+* [Subtle Patters](https://www.toptal.com/designers/subtlepatterns/)  
+* [Pattern Ninja](https://patterninja.com/)  
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
