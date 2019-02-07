@@ -12,7 +12,7 @@ A place to house helpful links relating to all things front-end
     - [Grids](#grids)  
     - [Selectors](#selectors)  
 - [Design/CSS Systems](#designcss-systems)  
-- [SVG Icon Systems](#svg-icon-systems)  
+- [SVG](#svg)  
 - [Checklists/Guidelines](#checklistsguidelines)  
 - [Accessibility](#accessibility)  
 - [CDNs](#cdns)  
@@ -75,7 +75,10 @@ A place to house helpful links relating to all things front-end
 * [Create your design system, part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
 * [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)  
 
-### SVG Icon Systems
+### SVG
+* [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
+
+#### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
 * [The guide to integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166)  
 * [The guide to integrating and styling icon systems — SVG sprites, SVG symbols and icon fonts](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
