@@ -75,6 +75,7 @@ licensed for free](https://mixkit.co/)
 * [Create your design system, part 3: Colors](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f)  
 * [Create your design system, part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
 * [Create your design system, part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
+* [Create your design system, part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
 * [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)  
 
 ### SVG
