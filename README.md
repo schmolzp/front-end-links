@@ -34,6 +34,8 @@ A place to house helpful links relating to all things front-end
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 * [CSS Gradient Generator](https://cssgradient.io/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+* [Mixkit - Authentic video footage & animation,
+licensed for free](https://mixkit.co/)
 
 ### UI
 * [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)  
