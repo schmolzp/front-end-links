@@ -33,6 +33,9 @@ A place to house helpful links relating to all things front-end
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 * [CSS Gradient Generator](https://cssgradient.io/)
+* [UI Gradients](https://uigradients.com)
+* [Coolor - Color Scheme Generator](https://coolors.co/)
+* [Adobe Color CC](https://color.adobe.com/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 * [Mixkit - Authentic video footage & animation,
 licensed for free](https://mixkit.co/)
