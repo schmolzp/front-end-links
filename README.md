@@ -38,6 +38,7 @@ A place to house helpful links relating to all things front-end
 * [Adobe Color CC](https://color.adobe.com/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 * [Font Squirrel font generator](https://www.fontsquirrel.com/tools/webfont-generator)
+* [FontJoy - Font Pairing Generator](https://fontjoy.com/)
 * [Mixkit - Authentic video footage & animation,
 licensed for free](https://mixkit.co/)
 
