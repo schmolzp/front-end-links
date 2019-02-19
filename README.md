@@ -32,7 +32,7 @@ A place to house helpful links relating to all things front-end
 ### Visual Tools
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
-* [Mixkit - Authentic video footage & animation,
+* [Mixkit - Authentic video footage & animation, licensed for free](https://mixkit.co/)
 
 #### Backgrounds
 * [Cool Background](https://coolbackgrounds.io/)  
@@ -52,7 +52,6 @@ A place to house helpful links relating to all things front-end
 #### Fonts
 * [Font Squirrel font generator](https://www.fontsquirrel.com/tools/webfont-generator)
 * [FontJoy - Font Pairing Generator](https://fontjoy.com/)
-licensed for free](https://mixkit.co/)
 
 ### UI
 * [UI Goodies - A directory of UI Resources](http://uigoodies.com/index.html)  
