@@ -1,4 +1,4 @@
-# front-end-links
+# Front-end Links
 A place to house helpful links relating to all things front-end
 
  ## Table of Contents
