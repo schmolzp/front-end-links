@@ -3,12 +3,13 @@ A place to house helpful links relating to all things front-end
 
  ## Table of Contents
 - [Responsive](#responsive)  
-- [Visual Tools/Effects](#visual-toolseffects)  
-- [UI](#ui)  
+- [Visual Tools](#visual-tools)  
     - [Backgrounds](#backgrounds) 
     - [Effects](#effects) 
     - [Colors](#colors)  
     - [Fonts](#fonts)  
+- [Tools](#tools)
+- [UI](#ui)  
 - [Plugins](#plugins)  
 - [CSS](#css)  
     - [Animations/Illustrations](#animationsillustrations) 
