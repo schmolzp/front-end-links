@@ -5,6 +5,10 @@ A place to house helpful links relating to all things front-end
 - [Responsive](#responsive)  
 - [Visual Tools/Effects](#visual-toolseffects)  
 - [UI](#ui)  
+    - [Backgrounds](#backgrounds) 
+    - [Effects](#effects) 
+    - [Colors](#colors)  
+    - [Fonts](#fonts)  
 - [Plugins](#plugins)  
 - [CSS](#css)  
     - [Animations/Illustrations](#animationsillustrations) 
@@ -25,21 +29,29 @@ A place to house helpful links relating to all things front-end
 * [Fun Tip: Use calc() to Change the Height of a Hero Component](https://css-tricks.com/fun-tip-use-calc-to-change-the-height-of-a-hero-component/)  
 * [CSS Media Queries - Quick Reference Guide](https://alligator.io/css/media-queries/)
 
-### Visual Tools/Effects
+### Visual Tools
+* [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
+* [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+* [Mixkit - Authentic video footage & animation,
+
+#### Backgrounds
 * [Cool Background](https://coolbackgrounds.io/)  
 * [Subtle Patters](https://www.toptal.com/designers/subtlepatterns/)  
 * [Pattern Ninja](https://patterninja.com/)  
+
+#### Effects
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
-* [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 * [CSS Gradient Generator](https://cssgradient.io/)
 * [UI Gradients](https://uigradients.com)
+
+#### Colors
 * [Coolor - Color Scheme Generator](https://coolors.co/)
 * [Adobe Color CC](https://color.adobe.com/)
-* [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+
+#### Fonts
 * [Font Squirrel font generator](https://www.fontsquirrel.com/tools/webfont-generator)
 * [FontJoy - Font Pairing Generator](https://fontjoy.com/)
-* [Mixkit - Authentic video footage & animation,
 licensed for free](https://mixkit.co/)
 
 ### UI
