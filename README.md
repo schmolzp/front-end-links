@@ -42,7 +42,10 @@ A place to house helpful links relating to all things front-end
 #### Effects
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
+
+#### Gradients
 * [CSS Gradient Generator](https://cssgradient.io/)
+* [Gradient Shape Editor](https://shapy.app/)
 * [UI Gradients](https://uigradients.com)
 
 #### Colors
@@ -59,6 +62,11 @@ A place to house helpful links relating to all things front-end
 
 ### Tools
 * [Git Command Explorer](http://gitexplorer.com/)  
+* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)  
+* [MailTo Link Generator](https://mailtolink.me/)  
+* [Meta Tags Checker](https://metatags.io/)  
+* [Copy Special Characters](https://copychar.cc/)  
+* [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)  
 
 ### Plugins
 * [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/)  
@@ -114,6 +122,7 @@ A place to house helpful links relating to all things front-end
 * [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
 * [How do you mark up an accordion?](https://www.sarasoueidan.com/blog/accordion-markup/)
 * [Conversational Semantics with HTML and ARIA](https://alistapart.com/article/conversational-semantics)
+* [Contrast Ratio](https://contrast-ratio.com/)
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 
 ### CDNs  
