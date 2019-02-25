@@ -27,6 +27,7 @@ A place to house helpful links relating to all things front-end
 ### Responsive
 * [Responsive Tables](https://www.hongkiat.com/blog/html-table-building-30-beautiful-examples-and-useful-javascripts/)  
 * [Math and Front-End (responsive typography with viewport units)](https://www.chenhuijing.com/blog/math-and-front-end/#%F0%9F%91%BE)  
+* [Responsive Typography with Calc](https://codepen.io/MadeByMike/pen/YPJJYv?editors=0100)  
 * [Fun Tip: Use calc() to Change the Height of a Hero Component](https://css-tricks.com/fun-tip-use-calc-to-change-the-height-of-a-hero-component/)  
 * [CSS Media Queries - Quick Reference Guide](https://alligator.io/css/media-queries/)
 
@@ -105,11 +106,16 @@ A place to house helpful links relating to all things front-end
 
 ### SVG
 * [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
+* [ICONSVG is a tool to simplify the process of finding and generating common icons for your project. ](https://iconsvg.xyz/)  
 
 #### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
 * [The guide to integrating and styling icon systems — inline SVG and icon components](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-inline-svg-and-icon-components-9ed234419166)  
 * [The guide to integrating and styling icon systems — SVG sprites, SVG symbols and icon fonts](https://blog.nucleoapp.com/the-guide-to-integrating-and-styling-icon-systems-svg-sprites-svg-symbols-and-icon-fonts-da7c424dac1b)
+
+### Cheatsheets
+* [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)  
+
 
 ### Checklists/Guidelines
 * [The Front-End Checklist](https://frontendchecklist.io/)  
