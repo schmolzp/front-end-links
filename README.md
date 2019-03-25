@@ -91,6 +91,10 @@ A place to house helpful links relating to all things front-end
 * [How to build complicated grids using CSS grid](https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75)  
 * [A Simple Visual Cheatsheet for CSS Grid Layout](http://grid.malven.co/)
 
+#### Resets
+* [Zellwk - My CSS Reset](https://zellwk.com/blog/css-reset/)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
+
 #### Selectors
 
 * [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)
