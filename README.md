@@ -10,7 +10,8 @@ A place to house helpful links relating to all things front-end
     - [Fonts](#fonts)  
 - [Tools](#tools)
 - [UI](#ui)  
-- [Plugins](#plugins)  
+- [Plugins](#plugins) 
+- [HTML](#html) 
 - [CSS](#css)  
     - [Animations/Illustrations](#animationsillustrations) 
     - [Guides](#guides) 
@@ -71,7 +72,11 @@ A place to house helpful links relating to all things front-end
 * [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)  
 
 ### Plugins
-* [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/)  
+* [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/) 
+
+### HTML
+* [Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i?ref=devawesome.io) 
+
 
 ### CSS
 #### Animations/Illustrations
@@ -124,6 +129,7 @@ A place to house helpful links relating to all things front-end
 ### Checklists/Guidelines
 * [The Front-End Checklist](https://frontendchecklist.io/)  
 * [The Front-End Design Checklist](https://frontenddesignchecklist.io/)
+* [A collection of the best UX and UI practices](https://www.checklist.design/)
 * [A list of everything that *could* go in the head of your document](https://github.com/joshbuchea/HEAD)
 * [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
