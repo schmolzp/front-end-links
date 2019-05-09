@@ -52,6 +52,7 @@ A place to house helpful links relating to all things front-end
 * [Linear Web Gradient Generator](https://www.grabient.com/)
 * [Gradient Shape Editor](https://shapy.app/)
 * [UI Gradients](https://uigradients.com)
+* [Gradpad - CSS Color Gradients](http://ourownthing.co.uk/gradpad.html)
 
 #### Colors
 * [Coolor - Color Scheme Generator](https://coolors.co/)
