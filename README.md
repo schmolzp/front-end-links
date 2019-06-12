@@ -46,6 +46,7 @@ A place to house helpful links relating to all things front-end
 #### Effects
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
+* [83 CSS Text Effects](https://freefrontend.com/css-text-effects/#hover-text)
 
 #### Gradients
 * [CSS Gradient Generator](https://cssgradient.io/)
