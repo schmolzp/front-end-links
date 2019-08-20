@@ -130,6 +130,7 @@ A place to house helpful links relating to all things front-end
 
 ### Cheatsheets
 * [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)  
+* [jQuery to vanilla javascript reference guide](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
 
 
 ### Checklists/Guidelines
