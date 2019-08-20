@@ -38,6 +38,7 @@ A place to house helpful links relating to all things front-end
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 * [Mixkit - Authentic video footage & animation, licensed for free](https://mixkit.co/)
+* [Create SVG waves](https://getwaves.io/?ref=ewebdesign.com)
 
 #### Backgrounds
 * [Cool Background](https://coolbackgrounds.io/)  
