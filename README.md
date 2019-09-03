@@ -77,6 +77,7 @@ A place to house helpful links relating to all things front-end
 * [Meta Tags Checker](https://metatags.io/)  
 * [Copy Special Characters](https://copychar.cc/)  
 * [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)  
+* [RegExr is an online tool to learn, build, & test Regular Expressions](https://regexr.com/)  
 
 ### Plugins
 * [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/) 
