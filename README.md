@@ -173,4 +173,5 @@ modern web projects](https://www.netlify.com/)
 
 ### Front-End Interview Questions
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook/?ref=ewebdesign.com)
 
