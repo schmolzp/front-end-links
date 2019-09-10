@@ -152,6 +152,7 @@ A place to house helpful links relating to all things front-end
 * [Conversational Semantics with HTML and ARIA](https://alistapart.com/article/conversational-semantics)
 * [Contrast Ratio](https://contrast-ratio.com/)
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
+* [Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
 
 ### CDNs  
 * [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
