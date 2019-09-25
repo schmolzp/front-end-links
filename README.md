@@ -172,7 +172,8 @@ modern web projects](https://www.netlify.com/)
 * [DeployBot - Instantly build and ship code anywhere in one consistent process for your entire team.](https://deploybot.com/)
 
 
-### Front-End Interview Questions
+### Front-End Interview Questions/Resume Builders
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook/?ref=ewebdesign.com)
+* [Resume Builder](https://www.resumebuilder.com/)
 
