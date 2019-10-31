@@ -78,6 +78,7 @@ A place to house helpful links relating to all things front-end
 * [Copy Special Characters](https://copychar.cc/)  
 * [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)  
 * [RegExr is an online tool to learn, build, & test Regular Expressions](https://regexr.com/)  
+* [Free for Dev - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://free-for.dev/#/)  
 
 ### Plugins
 * [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/) 
