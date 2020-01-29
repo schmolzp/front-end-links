@@ -71,6 +71,7 @@ A place to house helpful links relating to all things front-end
 * [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
 
 ### Tools
+* [Mybrowser - Send to people that have technical bugs to help get info about their setup](https://mybrowser.fyi/)  
 * [Tiny Helper - A collection of free single-purpose online tools for web developers](https://tiny-helpers.dev/)  
 * [Git Command Explorer](http://gitexplorer.com/)  
 * [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)  
