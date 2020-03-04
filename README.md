@@ -19,6 +19,7 @@ A place to house helpful links relating to all things front-end
     - [Selectors](#selectors)  
 - [Design/CSS Systems](#designcss-systems)  
 - [SVG](#svg)  
+- [Git](#git)  
 - [Checklists/Guidelines](#checklistsguidelines)  
 - [Accessibility](#accessibility)  
 - [CDNs](#cdns)  
@@ -128,6 +129,9 @@ A place to house helpful links relating to all things front-end
 * [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project. ](https://iconsvg.xyz/)  
 * [SVG Arista - Super handy SVG drawing animation tool ](https://svgartista.net)  
+
+### Git
+* [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/) 
 
 #### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
