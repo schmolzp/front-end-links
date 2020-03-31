@@ -54,6 +54,7 @@ A place to house helpful links relating to all things front-end
 
 #### Gradients
 * [CSS Gradient Generator](https://cssgradient.io/)
+* [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
 * [Linear Web Gradient Generator](https://www.grabient.com/)
 * [Gradient Shape Editor](https://shapy.app/)
 * [UI Gradients](https://uigradients.com)
