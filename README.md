@@ -46,6 +46,7 @@ A place to house helpful links relating to all things front-end
 * [Cool Background](https://coolbackgrounds.io/)  
 * [Subtle Patters](https://www.toptal.com/designers/subtlepatterns/)  
 * [Pattern Ninja](https://patterninja.com/)  
+* [Patterns.CSS - CSS only library to fill your empty background with beautiful patterns.](https://bansal.io/pattern-css)  
 
 #### Effects
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
