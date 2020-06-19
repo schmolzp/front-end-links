@@ -85,6 +85,7 @@ A place to house helpful links relating to all things front-end
 * [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)  
 * [RegExr is an online tool to learn, build, & test Regular Expressions](https://regexr.com/)  
 * [Free for Dev - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://free-for.dev/#/)  
+* [Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.](https://easings.co/)  
 
 ### Plugins
 * [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/) 
@@ -144,6 +145,7 @@ A place to house helpful links relating to all things front-end
 ### Cheatsheets
 * [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)  
 * [jQuery to vanilla javascript reference guide](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+* [SEO Cheatsheet](https://9elements.com/seo-cheat-sheet/)
 
 
 ### Checklists/Guidelines
