@@ -41,6 +41,7 @@ A place to house helpful links relating to all things front-end
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 * [Mixkit - Authentic video footage & animation, licensed for free](https://mixkit.co/)
 * [Create SVG waves](https://getwaves.io/?ref=ewebdesign.com)
+* [Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.](https://easings.co/) 
 
 #### Backgrounds
 * [Cool Background](https://coolbackgrounds.io/)  
@@ -84,8 +85,7 @@ A place to house helpful links relating to all things front-end
 * [Copy Special Characters](https://copychar.cc/)  
 * [HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)  
 * [RegExr is an online tool to learn, build, & test Regular Expressions](https://regexr.com/)  
-* [Free for Dev - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://free-for.dev/#/)  
-* [Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.](https://easings.co/)  
+* [Free for Dev - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://free-for.dev/#/)   
 
 ### Plugins
 * [ByPeople - Hand Curated Code Plugins](https://www.bypeople.com/code-plugins/) 
