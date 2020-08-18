@@ -37,6 +37,8 @@ A place to house helpful links relating to all things front-end
 * [Responsive Iframes](https://css-tricks.com/responsive-iframes/)
 
 ### Visual Tools
+* [CSS Animation tool with keyframes](https://keyframes.app/animate/)
+* [CSS Box Shadow editor with multiple layers](https://keyframes.app/shadows/)
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 * [Mixkit - Authentic video footage & animation, licensed for free](https://mixkit.co/)
