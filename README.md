@@ -159,7 +159,8 @@ A place to house helpful links relating to all things front-end
 
 ### Accessibility
 * [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
-* [Accessibility for Teams](https://accessibility.digital.gov/)  
+* [Accessibility for Teams - Gov](https://accessibility.digital.gov/)  
+* [Accessibility for Teams - This is a starter guide for teams about delivering accessible websites. Each person on your team has their own responsibilities, this guide tells you what everybody needs to do.](https://accessibility-for-teams.com/)  
 * [Inclusive Web Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
 * [How do you mark up an accordion?](https://www.sarasoueidan.com/blog/accordion-markup/)
 * [How to Keep Your CSS Grid Layouts Accessible](https://webdesign.tutsplus.com/articles/a-guide-to-css-grid-and-accessibility--cms-32857)
