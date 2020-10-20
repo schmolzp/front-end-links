@@ -50,6 +50,7 @@ A place to house helpful links relating to all things front-end
 * [Subtle Patters](https://www.toptal.com/designers/subtlepatterns/)  
 * [Pattern Ninja](https://patterninja.com/)  
 * [Patterns.CSS - CSS only library to fill your empty background with beautiful patterns.](https://bansal.io/pattern-css)  
+* [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)  
 * [BGjar - Free svg background generator for your websites, blogs and app](https://bgjar.com/)  
 
 #### Effects
