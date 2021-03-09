@@ -54,12 +54,14 @@ A place to house helpful links relating to all things front-end
 * [Patterns.CSS - CSS only library to fill your empty background with beautiful patterns.](https://bansal.io/pattern-css)  
 * [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)  
 * [BGjar - Free svg background generator for your websites, blogs and app](https://bgjar.com/)  
+* [Pattern Generator](https://doodad.dev/pattern-generator/)  
 
 #### Effects
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [filters.css - CSS only library to apply color filters.](https://bansal.io/filters-css)  
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
 * [83 CSS Text Effects](https://freefrontend.com/css-text-effects/#hover-text)
+* [Glassmorphism Generator](https://glassmorphism.com/)
 
 #### Gradients
 * [CSS Gradient Generator](https://cssgradient.io/)
