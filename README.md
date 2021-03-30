@@ -145,6 +145,8 @@ A place to house helpful links relating to all things front-end
 * [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project. ](https://iconsvg.xyz/)  
 * [SVG Arista - Super handy SVG drawing animation tool ](https://svgartista.net)  
+* [Warp SVG - SVG text by warping, bending or distorting it](https://pavellaptev.github.io/warp-svg/)  
+* [SVG Cropper Tool - remove blank space easily](https://msurguy.github.io/svg-cropper-tool/)  
 
 #### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
