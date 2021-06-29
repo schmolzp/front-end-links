@@ -29,6 +29,8 @@ A place to house helpful links relating to all things front-end
 - [Front-End Interview Questions](#front-end-interview-questions)
 
 ### Responsive
+* [Fluid typography with clamp generator](https://fluid-typography.netlify.app/?mc_cid=631da96355&mc_eid=035128709d)  
+* [Type Scale Clamp Generator](https://maximeroudier.com/typeScaleClampGenerator/?mc_cid=631da96355&mc_eid=035128709d)  
 * [Responsive Tables](https://www.hongkiat.com/blog/html-table-building-30-beautiful-examples-and-useful-javascripts/)  
 * [Math and Front-End (responsive typography with viewport units)](https://www.chenhuijing.com/blog/math-and-front-end/#%F0%9F%91%BE)  
 * [Responsive Typography with Calc](https://codepen.io/MadeByMike/pen/YPJJYv?editors=0100)  
