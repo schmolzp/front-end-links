@@ -87,6 +87,7 @@ A place to house helpful links relating to all things front-end
 * [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
 
 ### Tools
+* [Wavy Dividers Generator](https://wavier.art/)  
 * [Omatsuri - Open source browser tools for everyday use](https://omatsuri.app/)  
 * [Webdesign Toolbox - a human-curated collection of tools for web designers, coders, and web strategists](https://webdesigntoolbox.com/)  
 * [Mybrowser - Send to people that have technical bugs to help get info about their setup](https://mybrowser.fyi/)  
