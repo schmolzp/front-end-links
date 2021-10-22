@@ -50,6 +50,7 @@ A place to house helpful links relating to all things front-end
 * [Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.](https://easings.co/) 
 
 #### Backgrounds
+* [Basic Pattern Repo - just SVG](https://patterns.helloyes.dev/)  
 * [Cool Background](https://coolbackgrounds.io/)  
 * [Subtle Patters](https://www.toptal.com/designers/subtlepatterns/)  
 * [Pattern Ninja](https://patterninja.com/)  
