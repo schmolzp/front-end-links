@@ -41,6 +41,7 @@ A place to house helpful links relating to all things front-end
 ### Visual Tools
 * [Omatsuri - Open source browser tools for everyday use](https://omatsuri.app/)
 * [Smooth Shadows with multiple layers](https://brumm.af/shadows)
+* [Shadow Palette Generator - Create a set of lush, realistic CSS shadows](https://www.joshwcomeau.com/shadow-palette/?utm_source=CSS-Weekly&utm_campaign=Issue-482&utm_medium=email)
 * [CSS Animation tool with keyframes](https://keyframes.app/animate/)
 * [CSS Box Shadow editor with multiple layers](https://keyframes.app/shadows/)
 * [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
