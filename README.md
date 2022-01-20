@@ -68,6 +68,7 @@ A place to house helpful links relating to all things front-end
 * [Glassmorphism Generator](https://glassmorphism.com/)
 
 #### Gradients
+* [Gradient Generator - Beautiful, lush gradients by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
 * [CSS Gradient Generator](https://cssgradient.io/)
 * [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
 * [Linear Web Gradient Generator](https://www.grabient.com/)
