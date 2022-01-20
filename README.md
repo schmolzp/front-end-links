@@ -61,6 +61,7 @@ A place to house helpful links relating to all things front-end
 * [Pattern Generator](https://doodad.dev/pattern-generator/)  
 
 #### Effects
+* [transition.css - Drop-in CSS transitions](https://www.transition.style/)  
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [filters.css - CSS only library to apply color filters.](https://bansal.io/filters-css)  
 * [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
