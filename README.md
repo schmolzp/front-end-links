@@ -150,6 +150,7 @@ A place to house helpful links relating to all things front-end
 * [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)  
 
 ### SVG
+* [Tips for Creating and Exporting Better SVGs for the Web](https://www.sarasoueidan.com/blog/svg-tips-for-designers/)  
 * [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project. ](https://iconsvg.xyz/)  
 * [SVG Arista - Super handy SVG drawing animation tool ](https://svgartista.net)  
