@@ -52,6 +52,7 @@ A place to house helpful links relating to all things front-end
 * [Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.](https://easings.co/) 
 
 #### Backgrounds
+* [FFFuel - a collection of color tools and free SVG generators for gradients, patterns, backgrounds & decorative graphics](https://fffuel.co/)
 * [Wicked Backgrounds - Create beautiful backgrounds waves for yourdesigns](https://wickedbackgrounds.com/app)
 * [Basic Pattern Repo - just SVG](https://patterns.helloyes.dev/)  
 * [Cool Background](https://coolbackgrounds.io/)  
@@ -71,6 +72,7 @@ A place to house helpful links relating to all things front-end
 * [Glassmorphism Generator](https://glassmorphism.com/)
 
 #### Gradients
+* [FFFuel - a collection of color tools and free SVG generators for gradients, patterns, backgrounds & decorative graphics](https://fffuel.co/)
 * [Gradient Generator - Beautiful, lush gradients by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
 * [CSS Gradient Generator](https://cssgradient.io/)
 * [Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator)
@@ -81,6 +83,7 @@ A place to house helpful links relating to all things front-end
 * [Gradient Magic - A Gallery of Fantastic and Unique CSS Gradients](https://www.gradientmagic.com/)
 
 #### Colors
+* [FFFuel - a collection of color tools and free SVG generators for gradients, patterns, backgrounds & decorative graphics](https://fffuel.co/)
 * [Coolor - Color Scheme Generator](https://coolors.co/)
 * [Adobe Color CC](https://color.adobe.com/)
 
