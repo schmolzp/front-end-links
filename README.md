@@ -184,6 +184,7 @@ A place to house helpful links relating to all things front-end
 * [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
 ### Accessibility
+* [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)  
 * [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
 * [Accessibility for Teams - Gov](https://accessibility.digital.gov/)  
 * [Accessibility for Teams - This is a starter guide for teams about delivering accessible websites. Each person on your team has their own responsibilities, this guide tells you what everybody needs to do.](https://accessibility-for-teams.com/)  
