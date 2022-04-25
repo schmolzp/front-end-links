@@ -64,6 +64,7 @@ A place to house helpful links relating to all things front-end
 * [Pattern Generator](https://doodad.dev/pattern-generator/)  
 
 #### Effects
+* [Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG.](https://uiball.com/loaders/)  
 * [transition.css - Drop-in CSS transitions](https://www.transition.style/)  
 * [CSS Filter Playground](https://css-playground.com/view/39/css_filter_playground)  
 * [filters.css - CSS only library to apply color filters.](https://bansal.io/filters-css)  
