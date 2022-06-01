@@ -125,6 +125,8 @@ A place to house helpful links relating to all things front-end
 
 #### Guides
 
+* [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
+* [Deep Dive into Text Wrapping and Word Breaking](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking)  
 * [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
 * [CSS in Depth](http://file.allitebooks.com/20180423/CSS%20in%20Depth.pdf)
 * [CSS Layout Cookbook Recipes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
@@ -178,6 +180,7 @@ A place to house helpful links relating to all things front-end
 
 
 ### Checklists/Guidelines
+* [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)  
 * [The Front-End Checklist](https://frontendchecklist.io/)  
 * [The Front-End Design Checklist](https://frontenddesignchecklist.io/)
 * [A collection of the best UX and UI practices](https://www.checklist.design/)
@@ -185,7 +188,7 @@ A place to house helpful links relating to all things front-end
 * [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
 ### Accessibility
-* [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)  
+* [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)  
 * [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
 * [Accessibility for Teams - Gov](https://accessibility.digital.gov/)  
 * [Accessibility for Teams - This is a starter guide for teams about delivering accessible websites. Each person on your team has their own responsibilities, this guide tells you what everybody needs to do.](https://accessibility-for-teams.com/)  
