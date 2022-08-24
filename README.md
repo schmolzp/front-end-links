@@ -125,7 +125,7 @@ A place to house helpful links relating to all things front-end
 * [How to create pure CSS illustrations and animate them](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-3-3e8a?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)  
 
 #### Guides
-
+* [Best Practices for Images](https://github.com/nucliweb/image-element)
 * [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
 * [Deep Dive into Text Wrapping and Word Breaking](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking)  
 * [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
