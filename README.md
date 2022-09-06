@@ -118,6 +118,7 @@ A place to house helpful links relating to all things front-end
 
 ### HTML
 * [Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i?ref=devawesome.io) 
+* [Creative List Styling](https://web.dev/creative-list-styling/) 
 
 
 ### CSS
@@ -128,6 +129,7 @@ A place to house helpful links relating to all things front-end
 * [Best Practices for Images](https://github.com/nucliweb/image-element)
 * [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
 * [Deep Dive into Text Wrapping and Word Breaking](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking)  
+* [Creative List Styling](https://web.dev/creative-list-styling/)  
 * [CSS Reference - free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.](https://cssreference.io/)  
 * [CSS in Depth](http://file.allitebooks.com/20180423/CSS%20in%20Depth.pdf)
 * [CSS Layout Cookbook Recipes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
