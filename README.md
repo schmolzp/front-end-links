@@ -73,6 +73,7 @@ A place to house helpful links relating to all things front-end
 * [Glassmorphism Generator](https://glassmorphism.com/)
 
 #### Gradients
+* [Gradient Text Generator](https://www.cssgradienttext.com/)
 * [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/#how-to-use)
 * [FFFuel - a collection of color tools and free SVG generators for gradients, patterns, backgrounds & decorative graphics](https://fffuel.co/)
 * [Gradient Generator - Beautiful, lush gradients by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
