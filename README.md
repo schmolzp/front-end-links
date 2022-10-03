@@ -29,6 +29,7 @@ A place to house helpful links relating to all things front-end
 - [Front-End Interview Questions](#front-end-interview-questions)
 
 ### Responsive
+* [Min-Max-Value Interpolation (Clamp)](https://min-max-calculator.9elements.com/)  
 * [Fluid typography with clamp generator](https://fluid-typography.netlify.app/?mc_cid=631da96355&mc_eid=035128709d)  
 * [Type Scale Clamp Generator](https://maximeroudier.com/typeScaleClampGenerator/?mc_cid=631da96355&mc_eid=035128709d)  
 * [Responsive Tables](https://www.hongkiat.com/blog/html-table-building-30-beautiful-examples-and-useful-javascripts/)  
@@ -39,6 +40,7 @@ A place to house helpful links relating to all things front-end
 * [Responsive Iframes](https://css-tricks.com/responsive-iframes/)
 
 ### Visual Tools
+* [Fallback Font Generator](https://screenspan.net/fallback)
 * [Section Divider Generator](https://css-generators.com/section-divider/)
 * [Omatsuri - Open source browser tools for everyday use](https://omatsuri.app/)
 * [Smooth Shadows with multiple layers](https://brumm.af/shadows)
