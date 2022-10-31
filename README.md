@@ -18,6 +18,7 @@ A place to house helpful links relating to all things front-end
     - [Grids](#grids)  
     - [Selectors](#selectors)  
 - [Design/CSS Systems](#designcss-systems)  
+- [Data Visualization](#data-visualization)  
 - [SVG](#svg) 
   - [SVG Icon Systems](#svg-icon-systems)
 - [Git](#git)  
@@ -75,6 +76,7 @@ A place to house helpful links relating to all things front-end
 * [Glassmorphism Generator](https://glassmorphism.com/)
 
 #### Gradients
+* [Highly Customizable Background Gradients](https://cloudfour.com/thinks/highly-customizable-background-gradients/)
 * [Gradient Text Generator](https://www.cssgradienttext.com/)
 * [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/#how-to-use)
 * [FFFuel - a collection of color tools and free SVG generators for gradients, patterns, backgrounds & decorative graphics](https://fffuel.co/)
@@ -161,7 +163,10 @@ A place to house helpful links relating to all things front-end
 * [Create your design system, part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9)
 * [Create your design system, part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b)
 * [Create your design system, part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
-* [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)  
+* [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e) 
+
+### Data Visualization
+* [CSS Charts - CSS data visualization framework](https://chartscss.org/)  
 
 ### SVG
 * [Tips for Creating and Exporting Better SVGs for the Web](https://www.sarasoueidan.com/blog/svg-tips-for-designers/)  
