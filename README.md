@@ -14,6 +14,7 @@ A place to house helpful links relating to all things front-end
 - [HTML](#html) 
 - [CSS](#css)  
     - [Animations/Illustrations](#animationsillustrations) 
+    - [Fonts](#fonts)
     - [Guides](#guides) 
     - [Grids](#grids)  
     - [Selectors](#selectors)  
@@ -129,6 +130,9 @@ A place to house helpful links relating to all things front-end
 ### CSS
 #### Animations/Illustrations
 * [How to create pure CSS illustrations and animate them](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-3-3e8a?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)  
+
+#### Fonts
+* [Advanced web font optimization techniques](https://pixelpoint.io/blog/advanced-web-font-optimization-techniques/)
 
 #### Guides
 * [Best Practices for Images](https://github.com/nucliweb/image-element)
