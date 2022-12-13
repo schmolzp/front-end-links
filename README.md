@@ -7,7 +7,7 @@ A place to house helpful links relating to all things front-end
     - [Backgrounds](#backgrounds) 
     - [Effects](#effects) 
     - [Colors](#colors)  
-    - [Fonts](#fonts)  
+    - [Font Generators](#font-generators)  
 - [Tools](#tools)
 - [UI](#ui)  
 - [Plugins](#plugins) 
@@ -95,7 +95,7 @@ A place to house helpful links relating to all things front-end
 * [Coolor - Color Scheme Generator](https://coolors.co/)
 * [Adobe Color CC](https://color.adobe.com/)
 
-#### Fonts
+#### Font Generators
 * [Font Squirrel font generator](https://www.fontsquirrel.com/tools/webfont-generator)
 * [FontJoy - Font Pairing Generator](https://fontjoy.com/)
 
