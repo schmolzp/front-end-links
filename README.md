@@ -131,6 +131,7 @@ A place to house helpful links relating to all things front-end
 ### CSS
 #### Animations/Illustrations
 * [How to create pure CSS illustrations and animate them](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-3-3e8a?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)  
+* [Responsive Animations for Every Screen Size and Device](https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/)  
 
 #### Fonts
 * [Advanced web font optimization techniques](https://pixelpoint.io/blog/advanced-web-font-optimization-techniques/)
