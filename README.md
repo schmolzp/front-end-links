@@ -137,6 +137,7 @@ A place to house helpful links relating to all things front-end
 * [Advanced web font optimization techniques](https://pixelpoint.io/blog/advanced-web-font-optimization-techniques/)
 
 #### Guides
+* [Making Sense Of WAI-ARIA: A Comprehensive Guide](https://www.smashingmagazine.com/2022/09/wai-aria-guide/)  
 * [Best Practices for Images](https://github.com/nucliweb/image-element)
 * [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)
 * [Deep Dive into Text Wrapping and Word Breaking](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking)  
@@ -205,6 +206,7 @@ A place to house helpful links relating to all things front-end
 * [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
 ### Accessibility
+* [Making Sense Of WAI-ARIA: A Comprehensive Guide](https://www.smashingmagazine.com/2022/09/wai-aria-guide/)  
 * [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility)  
 * [Code Examples and Other Accessibility Resources](https://dequeuniversity.com/resources/)  
 * [Accessibility for Teams - Gov](https://accessibility.digital.gov/)  
