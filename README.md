@@ -176,6 +176,7 @@ A place to house helpful links relating to all things front-end
 * [CSS Charts - CSS data visualization framework](https://chartscss.org/)  
 
 ### SVG
+* [Interactive SVG Reference](https://fffuel.co/sssvg/)  
 * [Tips for Creating and Exporting Better SVGs for the Web](https://www.sarasoueidan.com/blog/svg-tips-for-designers/)  
 * [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project. ](https://iconsvg.xyz/)  
