@@ -109,7 +109,7 @@ A place to house helpful links relating to all things front-end
 * [Wavy Dividers Generator](https://wavier.art/)  
 * [Omatsuri - Open source browser tools for everyday use](https://omatsuri.app/)  
 * [Webdesign Toolbox - a human-curated collection of tools for web designers, coders, and web strategists](https://webdesigntoolbox.com/)  
-* [Mybrowser - Send to people that have technical bugs to help get info about their setup](https://mybrowser.fyi/)  
+* [Support Details - Send to people that have technical bugs to help get info about their browser setup](http://www.supportdetails.net/)  
 * [Tiny Helper - A collection of free single-purpose online tools for web developers](https://tiny-helpers.dev/)  
 * [Git Command Explorer](http://gitexplorer.com/)  
 * [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)  
