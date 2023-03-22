@@ -20,6 +20,7 @@ A place to house helpful links relating to all things front-end
     - [Selectors](#selectors)  
 - [Design/CSS Systems](#designcss-systems)  
 - [Data Visualization](#data-visualization)  
+- [Javascript](#javascript)  
 - [SVG](#svg) 
   - [SVG Icon Systems](#svg-icon-systems)
 - [Git](#git)  
@@ -105,6 +106,7 @@ A place to house helpful links relating to all things front-end
 * [Refactoring UI - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.](https://refactoringui.com/)
 
 ### Tools
+* [Custom Scrollbar Generator](https://scrollbar.app/)  
 * [Cleanup Photos - Remove any object, people, text or defects from your pictures.](https://cleanup.pictures/)  
 * [Wavy Dividers Generator](https://wavier.art/)  
 * [Omatsuri - Open source browser tools for everyday use](https://omatsuri.app/)  
@@ -174,6 +176,9 @@ A place to house helpful links relating to all things front-end
 
 ### Data Visualization
 * [CSS Charts - CSS data visualization framework](https://chartscss.org/)  
+
+### Javascript
+* [The Vanilla JavaScript Repository](https://vanillalist.top/)
 
 ### SVG
 * [Interactive SVG Reference](https://fffuel.co/sssvg/)  
