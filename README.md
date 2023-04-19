@@ -166,6 +166,7 @@ A place to house helpful links relating to all things front-end
 * [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)
 
 ### Design/CSS Systems
+* [My favourite 3 lines of CSS - Flow and vertical rhythm](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)  
 * [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)  
 * [Create your design system, part 2: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6)  
 * [Create your design system, part 3: Colors](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f)  
