@@ -26,6 +26,7 @@ A place to house helpful links relating to all things front-end
 - [Git](#git)  
 - [Checklists/Guidelines](#checklistsguidelines)  
 - [Accessibility](#accessibility)  
+- [Performance](#performance)  
 - [CDNs](#cdns)  
 - [Browser Caching](#browser-caching)  
 - [Hosting/Deployment](#hostingdeployment)
@@ -226,6 +227,10 @@ A place to house helpful links relating to all things front-end
 * [Contrast Ratio](https://contrast-ratio.com/)
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 * [Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
+
+### Performance  
+* [Understanding CSS preload and other resource hints](https://blog.logrocket.com/understanding-css-preload-other-resource-hints/#utm_source%3DCSS-Weekly%26utm_campaign%3DIssue-545%26utm_medium%3Demail)  
+* [Priority Hints and optimizing LCP](https://imkev.dev/fetchpriority-opportunity)  
 
 ### CDNs  
 * [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
