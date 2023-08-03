@@ -26,7 +26,6 @@ A place to house helpful links relating to all things front-end
 - [Git](#git)  
 - [Checklists/Guidelines](#checklistsguidelines)  
 - [Accessibility](#accessibility)  
-- [Performance](#performance)  
 - [CDNs](#cdns)  
 - [Browser Caching](#browser-caching)  
 - [Hosting/Deployment](#hostingdeployment)
@@ -167,8 +166,6 @@ A place to house helpful links relating to all things front-end
 * [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)
 
 ### Design/CSS Systems
-* [Some simple ways to make content look good](https://set.studio/some-simple-ways-to-make-content-look-good/)  
-* [My favourite 3 lines of CSS - Flow and vertical rhythm](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)  
 * [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)  
 * [Create your design system, part 2: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6)  
 * [Create your design system, part 3: Colors](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f)  
@@ -190,7 +187,8 @@ A place to house helpful links relating to all things front-end
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project. ](https://iconsvg.xyz/)  
 * [SVG Arista - Super handy SVG drawing animation tool ](https://svgartista.net)  
 * [Warp SVG - SVG text by warping, bending or distorting it](https://pavellaptev.github.io/warp-svg/)  
-* [SVG Cropper Tool - remove blank space easily](https://msurguy.github.io/svg-cropper-tool/)  
+* [SVG Cropper Tool - remove blank space easily](https://msurguy.github.io/svg-cropper-tool/) 
+*  [Tablr Icons - Over 4600 pixel-perfect icons for web design](https://tabler-icons.io/)   
 
 #### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
@@ -227,10 +225,6 @@ A place to house helpful links relating to all things front-end
 * [Contrast Ratio](https://contrast-ratio.com/)
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 * [Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
-
-### Performance  
-* [Understanding CSS preload and other resource hints](https://blog.logrocket.com/understanding-css-preload-other-resource-hints/#utm_source%3DCSS-Weekly%26utm_campaign%3DIssue-545%26utm_medium%3Demail)  
-* [Priority Hints and optimizing LCP](https://imkev.dev/fetchpriority-opportunity)  
 
 ### CDNs  
 * [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
