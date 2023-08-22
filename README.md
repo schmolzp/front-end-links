@@ -180,7 +180,7 @@ A place to house helpful links relating to all things front-end
 ### Javascript
 * [The Vanilla JavaScript Repository](https://vanillalist.top/)
 
-### SVG
+### SVG/Icons
 * [Interactive SVG Reference](https://fffuel.co/sssvg/)  
 * [Tips for Creating and Exporting Better SVGs for the Web](https://www.sarasoueidan.com/blog/svg-tips-for-designers/)  
 * [Animate a Blob of Text with SVG and Text Clipping ](https://css-tricks.com/animate-blob-text-with-svg-text-clipping/)  
@@ -189,6 +189,7 @@ A place to house helpful links relating to all things front-end
 * [Warp SVG - SVG text by warping, bending or distorting it](https://pavellaptev.github.io/warp-svg/)  
 * [SVG Cropper Tool - remove blank space easily](https://msurguy.github.io/svg-cropper-tool/) 
 *  [Tablr Icons - Over 4600 pixel-perfect icons for web design](https://tabler-icons.io/)   
+*  [IconBuddy - Download, Customize, Edit, and Personalize. Over 180k open source icons](https://iconbuddy.app/)   
 
 #### SVG Icon Systems
 * [A pretty good SVG Icon System - CSS Tricks](https://css-tricks.com/pretty-good-svg-icon-system/)  
