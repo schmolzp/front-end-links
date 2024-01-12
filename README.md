@@ -226,6 +226,7 @@ A place to house helpful links relating to all things front-end
 * [Contrast Ratio](https://contrast-ratio.com/)
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 * [Accessibility Strategies for Your Content Team](https://www.deque.com/blog/accessibility-strategies-for-your-content-team/)
+* [How to make external links accessible](https://blog.pope.tech/2024/01/02/how-to-make-external-links-accessible/)
 
 ### CDNs  
 * [What is a CDN and how does it work?](https://www.incapsula.com/cdn-guide/what-is-cdn-how-it-works.html)  
