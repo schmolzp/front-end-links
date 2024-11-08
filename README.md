@@ -43,6 +43,7 @@ A place to house helpful links relating to all things front-end
 * [Responsive Iframes](https://css-tricks.com/responsive-iframes/)
 
 ### Visual Tools
+* [Find your player - Video and audio player themes built with Media Chrome, for every web player and every web app framework.](https://player.style/)
 * [Fallback Font Generator](https://screenspan.net/fallback)
 * [Section Divider Generator](https://css-generators.com/section-divider/)
 * [Omatsuri - Open source browser tools for everyday use](https://omatsuri.app/)
